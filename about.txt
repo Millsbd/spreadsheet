@@ -1,0 +1,13 @@
+HTML:
+-boilerplate with title and link to css stylesheet.
+-div container to hold spreadsheet
+-script tag to js logic
+
+CSS:
+-container set to grid to take spreadsheet
+-Label logic for top and side letters and numbers
+
+JS:
+-object with basic math funcitons for spreadsheets to perform
+-lots of nested formulas for the logic to allow spreadsheet to work. 
+-onload funcion called on the window whch grabs the container from the dom and creates inputs and labels to build the sheet then appends these elements to the container. 
